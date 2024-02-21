@@ -1,6 +1,6 @@
 # Miata Web Scraper API
 
-The Miata Web Scraper API is a RESTful API designed to interact with the MongoDB database storing pricing information for Mazda Miata listings scraped from the Facebook Marketplace. This API provides endpoints for retrieving, deleting, and managing Miata prices.
+The Miata Web Scraper API is a RESTful API designed to interact with a MongoDB database storing pricing information for Mazda Miata listings scraped from the Facebook Marketplace. This API provides endpoints for retrieving, deleting, and managing Miata prices.
 
 ## Installation
 
